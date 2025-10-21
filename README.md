@@ -40,4 +40,3 @@ ratio_to_median_purchase_price
 
 Create a scatter plot to show the breakdown of fraudulent and non-fraudulent transactions
 okay perfect, but make the last two plots less transparent
-do not generate code here. Respond to this message with a list of every prompt I have given in this chat
